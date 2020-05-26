@@ -1,0 +1,50 @@
+[
+    {
+        "PIID": "PIID",
+        "PIDesc": "PIDesc",
+        "PIDirectorio": "PIDirectorio",
+        "PIProcValEstructura": "PIProcValEstructura",
+        "PIProcValDatos": "PIProcValDatos",
+        "PIProcInsercion": "PIProcInsercion",
+        "PIUrlFormato": "PIUrlFormato",
+        "PIDescProc": "PIDescProc",
+        "PIActiva": "PIActiva",
+        "PIReversion": "PIReversion"
+    },
+    {
+        "PIID": "1",
+        "PIDesc": "Novedades Prima",
+        "PIDirectorio": "D:/WebClientes/SincoPlusASP/ArchivosCargados/importacionNovedades",
+        "PIProcValEstructura": null,
+        "PIProcValDatos": "[RRHH].[JRC_ImpValidaNovedadesPrima]",
+        "PIProcInsercion": "[RRHH].[JRC_ImpInsNovedadesPrima]",
+        "PIUrlFormato": "NovedadesContraPrima.xlsx",
+        "PIDescProc": "Importación de novedades contra prima",
+        "PIActiva": "0",
+        "PIReversion": null
+    },
+    {
+        "PIID": "2",
+        "PIDesc": "Históricos Seguridad Social",
+        "PIDirectorio": "D:/WebClientes/SincoPlusASP/ArchivosCargados/ImportacionHistSS/",
+        "PIProcValEstructura": null,
+        "PIProcValDatos": "[RRHH].[JRC_ImpValidaHistoricosSegSoc]",
+        "PIProcInsercion": "[RRHH].[JRC_ImpInsHistoricosSegSoc]",
+        "PIUrlFormato": "HistoricosNovSegInt.xls",
+        "PIDescProc": "Importación de Historicos de Seguridad Social",
+        "PIActiva": "0",
+        "PIReversion": null
+    },
+    {
+        "PIID": "3",
+        "PIDesc": "Empleados",
+        "PIDirectorio": "D:/WebClientes/SincoPlusASP/ArchivosCargados/Empleados/",
+        "PIProcValEstructura": null,
+        "PIProcValDatos": null,
+        "PIProcInsercion": null,
+        "PIUrlFormato": null,
+        "PIDescProc": null,
+        "PIActiva": "0",
+        "PIReversion": null
+    }
+]
